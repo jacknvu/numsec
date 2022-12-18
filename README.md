@@ -18,3 +18,7 @@ or 1.1, 2.1, and so on if triple ###  is seen
 	script numbers the section as 1.0, 2.0 if double ##  is seen 
 	and 1.1, 2.1 triple ###  is seen
 ```
+
+## 5.0 Special Note
+Beware that script renumbers sections in numerical sequence, and sequence may be
+ different from original sequence of numbers
